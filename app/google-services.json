@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "633809537321",
+    "project_id": "rumireaivanovpractice7-ae1b8",
+    "storage_bucket": "rumireaivanovpractice7-ae1b8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:633809537321:android:f2511ae5d1327d3ea40f38",
+        "android_client_info": {
+          "package_name": "com.mirea.ivanovma.rumireaivanovpractice7"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "633809537321-81stloomv6bgrl1u198piuugdng8sko3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCOLfMYN42HC06dnQsZ8tx9-gr6hflgMq4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "633809537321-81stloomv6bgrl1u198piuugdng8sko3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
